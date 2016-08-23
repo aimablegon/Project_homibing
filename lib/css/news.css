@@ -25,7 +25,7 @@ img{vertical-align:top}
 .newsWrap>div>a>span:first-child+span{
 	display:block;
 }
-.none{
+.wrapper .newsWrap .none{
 	display:none;
 }
 .newsWrap>div{
@@ -184,7 +184,7 @@ img{vertical-align:top}
 	.newsWrap>div>a span:first-child{
 		display:none;
 	}
-	.newsWrap>div>a span+span+span{
+	.wrapper .newsWrap .none{
 		display:block;
 	}
 	.newsWrap>div>a>span:first-child+span{
