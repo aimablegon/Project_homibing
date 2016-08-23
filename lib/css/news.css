@@ -25,7 +25,7 @@ img{vertical-align:top}
 .newsWrap>div>a>span:first-child+span{
 	display:block;
 }
-#none{
+.none{
 	display:none;
 }
 .newsWrap>div{

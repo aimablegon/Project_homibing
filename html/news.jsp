@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
-<html>
+<html lang="ko">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>news</title>
@@ -26,7 +26,7 @@
 						<span>호미빙 LA신규매장오픈</span>
 						<button type="button" class="newsPage" >NEWS</button>
 					</span>
-					<span id="none"><img src="/homibing/lib/images/sunkyung/news-1-1.png" alt="" /></span>
+					<span class="none"><img src="/homibing/lib/images/sunkyung/news-1-1.png" alt="" /></span>
 				</a>
 			</div>
 			<div class="wow fadeIn">
@@ -38,7 +38,7 @@
 						<span>달콤한 식감의 크레이프케익 출시</span>
 						<button type="button" class="newsPage">NEW MENU</button>
 					</span>
-					<span id="none"><img src="/homibing/lib/images/sunkyung/news-1-2.png" alt="" /></span>
+					<span class="none"><img src="/homibing/lib/images/sunkyung/news-1-2.png" alt="" /></span>
 				</a>
 			</div>
 			<div class="wow fadeIn">
@@ -50,7 +50,7 @@
 						<span>부드러운 빙수결에 달콤한 메론 한가득!</span>
 						<button type="button" class="newsPage">NEW MENU</button>
 					</span>
-					<span id="none"><img src="/homibing/lib/images/sunkyung/news-1-3.png" alt="" /></span>
+					<span class="none"><img src="/homibing/lib/images/sunkyung/news-1-3.png" alt="" /></span>
 				</a>
 			</div>
 			<div class="wow fadeIn">
@@ -62,7 +62,7 @@
 						<span id="news1-4">호미빙T MBC라디오스타 출연, 세계박람회 진...</span>
 						<button type="button" class="newsPage">NEWS</button>
 					</span>
-					<span id="none"><img src="/homibing/lib/images/sunkyung/news-1-4.png" alt="" /></span>
+					<span class="none"><img src="/homibing/lib/images/sunkyung/news-1-4.png" alt="" /></span>
 				</a>
 			</div>
 			<div class="wow fadeIn">
@@ -74,7 +74,7 @@
 						<span>it daily</span>
 						<button type="button" class="newsPage">NEWS</button>
 					</span>
-					<span id="none"><img src="/homibing/lib/images/sunkyung/news-1-5.png" alt="" /></span>
+					<span class="none"><img src="/homibing/lib/images/sunkyung/news-1-5.png" alt="" /></span>
 				</a>
 			</div>
 			<div class="wow fadeIn">
@@ -86,7 +86,7 @@
 						<span id="news2-1">디저트 카페 창업 시장의 리더 '호미빙티'</span>
 						<button type="button" class="newsPage">NEW MENU</button>
 					</span>
-					<span id="none"><img src="/homibing/lib/images/sunkyung/news-2-1.png" alt="" /></span>
+					<span class="none"><img src="/homibing/lib/images/sunkyung/news-2-1.png" alt="" /></span>
 				</a>
 			</div>
 			<div class="newsBlank img1 wow fadeIn">
@@ -105,7 +105,7 @@
 						<span>매일신문</span>
 						<button type="button" class="newsPage">news</button>
 					</span>
-					<span id="none"><img src="/homibing/lib/images/sunkyung/news-2-3.png" alt="" /></span>
+					<span class="none"><img src="/homibing/lib/images/sunkyung/news-2-3.png" alt="" /></span>
 				</a>
 			</div>
 			<div class="wow fadeIn">
@@ -117,7 +117,7 @@
 						<span>넥스트데일리</span>
 						<button type="button" class="newsPage">news</button>
 					</span>
-					<span id="none"><img src="/homibing/lib/images/sunkyung/news-2-4.png" alt="" /></span>
+					<span class="none"><img src="/homibing/lib/images/sunkyung/news-2-4.png" alt="" /></span>
 				</a>
 			</div>
 			<div class="wow fadeIn">
@@ -129,7 +129,7 @@
 						<span>카페창업의 정석</span>
 						<button type="button" class="newsPage">news</button>
 					</span>
-					<span id="none"><img src="/homibing/lib/images/sunkyung/news-2-5.png" alt="" /></span>
+					<span class="none"><img src="/homibing/lib/images/sunkyung/news-2-5.png" alt="" /></span>
 				</a>
 			</div>
 			<div class="wow fadeIn">
@@ -141,7 +141,7 @@
 						<span>새콤달콤한 블루베리와 진한 치즈의 풍미</span>
 						<button type="button" class="newsPage">new menu</button>
 					</span>
-					<span id="none"><img src="/homibing/lib/images/sunkyung/news-3-1.png" alt="" /></span>
+					<span class="none"><img src="/homibing/lib/images/sunkyung/news-3-1.png" alt="" /></span>
 				</a>
 			</div>
 			<div class="wow fadeIn">
@@ -153,7 +153,7 @@
 						<span>올겨울 호미빙티가 준비한 시즌 메뉴</span>
 						<button type="button" class="newsPageL">season </br>menu</button>
 					</span>
-					<span id="none"><img src="/homibing/lib/images/sunkyung/news-3-2.png" alt="" /></span>
+					<span class="none"><img src="/homibing/lib/images/sunkyung/news-3-2.png" alt="" /></span>
 				</a>
 			</div>
 			<div class="wow fadeIn">
@@ -165,7 +165,7 @@
 						<span>호미빙티에서 맛보는 삼시세끼 베이커리</span>
 						<button type="button" class="newsPage">new menu</button>
 					</span>
-					<span id="none"><img src="/homibing/lib/images/sunkyung/news-3-3.png" alt="" /></span>
+					<span class="none"><img src="/homibing/lib/images/sunkyung/news-3-3.png" alt="" /></span>
 				</a>
 			</div>
 			<div class="wow fadeIn">
@@ -177,13 +177,13 @@
 						<span>지금까지 맛볼 수 없었던 이태리 정통 또띠아 ...</span>
 						<button type="button" class="newsPage">new menu</button>
 					</span>
-					<span id="none"><img src="/homibing/lib/images/sunkyung/news-3-4.png" alt="" /></span>
+					<span class="none"><img src="/homibing/lib/images/sunkyung/news-3-4.png" alt="" /></span>
 				</a>
 			</div>
 			<div class="newsBlank img2 wow fadeIn">
 				<img src="/homibing/lib/images/sunkyung/news3-5.png" alt="" />
 				<div>
-					<span>호미빙의 새얼굴 호미빙티에서</br>여러분을 기다립니다</span>
+					<span>호미빙의 새얼굴 호미빙티에서<br />여러분을 기다립니다</span>
 					<span>coffee, tea, ice flake</span>
 				</div>
 			</div>
@@ -196,7 +196,7 @@
 						<span id="news4-1">지금 호미빙티에선 오리지날 대만 밀크티가 1,...</span>
 						<button type="button" class="newsPage">sale menu</button>
 					</span>
-					<span id="none"><img src="/homibing/lib/images/sunkyung/news-4-1.png" alt="" /></span>
+					<span class="none"><img src="/homibing/lib/images/sunkyung/news-4-1.png" alt="" /></span>
 				</a>
 			</div>
 		</div>

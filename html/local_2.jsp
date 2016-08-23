@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
-<html>
+<html lang="ko">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>franchise</title>
@@ -39,7 +39,8 @@
 					<p>충청북도 음성군 맹동면 동성리 477 이노센타 109호&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;043-877-4025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PM 12:00 ~ PM 11:00</p>
 					<button class="infomap1 storeViews" type="button" >지도보기</button>
 					<button class="infomap1 storeCloses" type="button" >지도닫기</button>
-					<div id="store-map10" class="store-map10" style=""><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1462.7358629719156!2d127.54453863033768!3d36.90829763541094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3564c7285e52e0b9%3A0xedf1ac9612f98390!2z7Lap7LKt67aB64-EIOydjOyEseq1sCDrp7nrj5nrqbQg65GQ7ISx66asIDU1OQ!5e0!3m2!1sko!2skr!4v1469517562611" width="100%" height="375" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+					<div id="store-map10" class="store-map10" style="">
+						<iframe  alt="구굴지도" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1462.7358629719156!2d127.54453863033768!3d36.90829763541094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3564c7285e52e0b9%3A0xedf1ac9612f98390!2z7Lap7LKt67aB64-EIOydjOyEseq1sCDrp7nrj5nrqbQg65GQ7ISx66asIDU1OQ!5e0!3m2!1sko!2skr!4v1469517562611" width="100%" height="375" frameborder="0" style="border:0" allowfullscreen></iframe></div>
 					</div>
 					
 				<div class="shop_line10"></div>	

@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
-<html>
+<html lang="ko">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>franchise</title>
@@ -132,23 +132,30 @@
 								</div>
 								<div class="st_inqu_aaname">
 									<span>이름:</span>
-									<input type="text" placeholder="* 이름"/>
+									<label for="aaa">
+										<input type="text" id="aaa" placeholder="* 이름"/>
+									</label>
 								</div>
 								<div class="st_inqu_aamail">
 									<span>이메일:</span>
-									<input type="text" placeholder="* 이메일을 넣어주세요" />
+									<label for="bbb">
+										<input type="text" id="bbb" placeholder="* 이메일을 넣어주세요" />
+									</label>
 								</div>
 								<div class="st_inqu_aanumber">
 									<span>전화번호:</span>
-									<input type="text" placeholder="* 전화번호를 입력해 주세요. 예) 010-2224-2256" />
+									<label for="ccc">
+										<input type="text" id="ccc" placeholder="* 전화번호를 입력해 주세요. 예) 010-2224-2256" />
+									</label>
 								</div>
 								<div class="st_inqu_content">
 									<span>문의내용:</span>
 									<textarea placeholder="문의 내용을 간단히 남겨주세요" cols="30" rows="10"></textarea>
-									</textarea>
 								</div>
 								<div class="st_inqu_clause">
-									<input type="checkbox" />
+									<label for="ddd">
+										<input type="checkbox" id="ddd" />
+									</label>
 									<span>개인정보 수집관련동의</span>
 									<textarea name="" id="" cols="30" rows="" >주식회사 츄릅(이하 '회사')은 회사에서 제공하는 통합 멤버십 서비스 및 인터넷 사이트 서비스를 이용하는 이용자님의 개인정보를 매우 소중하게 생각하고 있으며, 이용자의 개인정보를 보호하기 위하여 최선의 노력을 다하고 있습니다. 회사는 『개인정보 보호법』, 『정보통신망 이용촉진 및 정보보호 등에 관한 법률』을 비롯한 모든 개인정보보호 관련 법률규정을 준수하고 있으며, 회사의 개인정보취급방침을 별도로 제정하고 이를 준수함으로써 이용자의 개인정보를 더욱 보호하고 있습니다. 또한 회사는 개인정보취급방침을 항상 회사 홈페이지 첫 화면에 공개함으로써 이용자들이 언제나 쉽게 열람할 수 있도록 조치하고 있습니다. 회사의 개인정보취급방침은 관련 법률 및 고시의 변경 또는 내부 운영방침의 변경에 따라 변경될 수 있습니다. 회사의 개인정보취급방침이 수정될 경우 변경된 사항은 홈페이지를 통하여 공지합니다. 회사의 개인정보 보호정책은 다음과 같은 내용을 담고 있습니다.<br />1. 개인정보 수집범위: 이름,연락처<br />2. 개인정보 수집 및 이용목적: 가맹문의 및 상담자료<br />3. 개인정보 수집 및 보유기간: 이용자의 개인정보는 원칙적으로 개인정보의 수집 및 이용목적이 달성되면 지체 없이 파기하며 보유기간은 최대3년을 넘기지 않는 것을 원칙으로 한다.
 									</textarea>
