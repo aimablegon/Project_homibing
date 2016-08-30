@@ -40,10 +40,10 @@
 								</div>
 							</div>
 							<div class="ci_img">
-								<img src="/homibing/lib/images/hyein/gallery_list_view_3_1.jpg" alt="" alt="" />
-								<img src="/homibing/lib/images/hyein/gallery_list_view_3_2.jpg" alt="" alt="" />
-								<img src="/homibing/lib/images/hyein/gallery_list_view_3_3.jpg" alt="" alt="" />
-								<img src="/homibing/lib/images/hyein/gallery_list_view_3_4.jpg" alt="" alt="" />
+								<img src="/homibing/lib/images/hyein/gallery_list_view_3_1.jpg" alt="" />
+								<img src="/homibing/lib/images/hyein/gallery_list_view_3_2.jpg" alt="" />
+								<img src="/homibing/lib/images/hyein/gallery_list_view_3_3.jpg" alt="" />
+								<img src="/homibing/lib/images/hyein/gallery_list_view_3_4.jpg" alt="" />
 							</div>					
 						</div>
 					</div>

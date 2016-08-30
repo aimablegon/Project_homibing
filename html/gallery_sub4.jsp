@@ -40,9 +40,9 @@
 								</div>
 							</div>
 							<div class="ci_img">
-								<img src="/homibing/lib/images/hyein/gallery_list_view_4_1.jpg" alt="" alt="" />
-								<img src="/homibing/lib/images/hyein/gallery_list_view_4_2.jpg" alt="" alt="" />
-								<img src="/homibing/lib/images/hyein/gallery_list_view_4_3.jpg" alt="" alt="" />
+								<img src="/homibing/lib/images/hyein/gallery_list_view_4_1.jpg" alt="" />
+								<img src="/homibing/lib/images/hyein/gallery_list_view_4_2.jpg" alt="" />
+								<img src="/homibing/lib/images/hyein/gallery_list_view_4_3.jpg" alt="" />
 					
 							</div>					
 						</div>

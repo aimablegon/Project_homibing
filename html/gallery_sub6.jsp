@@ -47,11 +47,11 @@
 								</div>
 							</div>
 							<div class="ci_img">
-								<img src="/homibing/lib/images/hyein/gallery_list_view_6_1.jpg" alt="" alt="" />
-								<img src="/homibing/lib/images/hyein/gallery_list_view_6_2.jpg" alt="" alt="" />
-								<img src="/homibing/lib/images/hyein/gallery_list_view_6_3.jpg" alt="" alt="" />
-								<img src="/homibing/lib/images/hyein/gallery_list_view_6_4.jpg" alt="" alt="" />
-								<img src="/homibing/lib/images/hyein/gallery_list_view_6_5.jpg" alt="" alt="" />
+								<img src="/homibing/lib/images/hyein/gallery_list_view_6_1.jpg" alt="" />
+								<img src="/homibing/lib/images/hyein/gallery_list_view_6_2.jpg" alt="" />
+								<img src="/homibing/lib/images/hyein/gallery_list_view_6_3.jpg" alt="" />
+								<img src="/homibing/lib/images/hyein/gallery_list_view_6_4.jpg" alt="" />
+								<img src="/homibing/lib/images/hyein/gallery_list_view_6_5.jpg" alt="" />
 								
 					
 							</div>					

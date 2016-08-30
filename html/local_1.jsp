@@ -39,7 +39,7 @@
 							<button class="infomap1 storeViews" type="button" >지도보기</button>
 							<button class="infomap1 storeCloses" type="button" >지도닫기</button>
 							<div id="store-map2" class="store-map2" style="display:block">
-								<iframe alt="구굴지도" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50638.09441752665!2d127.04980163018196!3d37.510727062124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca15859da6c27%3A0xa8b8b834f908bf7b!2z66eM7J2067mM65Sp!5e0!3m2!1sko!2skr!4v1450161041944" width="100%" height="375" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+								<iframe title="구글지도" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50638.09441752665!2d127.04980163018196!3d37.510727062124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca15859da6c27%3A0xa8b8b834f908bf7b!2z66eM7J2067mM65Sp!5e0!3m2!1sko!2skr!4v1450161041944" width="100%" height="375" frameborder="0" style="border:0" allowfullscreen=""></iframe>
 							</div>
 						</div>
 						

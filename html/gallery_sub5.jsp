@@ -40,8 +40,8 @@
 								</div>
 							</div>
 							<div class="ci_img">
-								<img src="/homibing/lib/images/hyein/gallery_list_view_5_1.jpg" alt="" alt="" />
-								<img src="/homibing/lib/images/hyein/gallery_list_view_5_2.jpg" alt="" alt="" />
+								<img src="/homibing/lib/images/hyein/gallery_list_view_5_1.jpg" alt="" />
+								<img src="/homibing/lib/images/hyein/gallery_list_view_5_2.jpg" alt="" />
 							</div>					
 						</div>
 					</div>

@@ -92,7 +92,7 @@
 			<div class="newsBlank img1 wow fadeIn">
 				<img src="/homibing/lib/images/sunkyung/news2-2.png" alt="" />
 				<div>
-					<span>호미빙의 새얼굴 호미빙티에서</br> 여러분을 기다립니다</span>
+					<span>호미빙의 새얼굴 호미빙티에서<br /> 여러분을 기다립니다</span>
 					<span>coffee, tea, ice flake</span>
 				</div>
 			</div>
@@ -151,7 +151,7 @@
 						<span>겨울에 만나는 선남선녀</span>
 						<span>2015-12-01</span>
 						<span>올겨울 호미빙티가 준비한 시즌 메뉴</span>
-						<button type="button" class="newsPageL">season </br>menu</button>
+						<button type="button" class="newsPageL">season <br />menu</button>
 					</span>
 					<span class="none"><img src="/homibing/lib/images/sunkyung/news-3-2.png" alt="" /></span>
 				</a>

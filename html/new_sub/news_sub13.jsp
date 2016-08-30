@@ -42,7 +42,7 @@
 								</div>
 							</div>
 							<div class="ci_img">
-								<img src="/homibing/lib/images/sunkyung/news-3-4-1.png" alt="" alt="" />
+								<img src="/homibing/lib/images/sunkyung/news-3-4-1.png" alt="" />
 							</div>					
 						</div>
 					</div>

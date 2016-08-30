@@ -40,7 +40,7 @@
 					<button class="infomap1 storeViews" type="button" >지도보기</button>
 					<button class="infomap1 storeCloses" type="button" >지도닫기</button>
 					<div id="store-map10" class="store-map10" style="">
-						<iframe  alt="구굴지도" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d791.5918687547245!2d126.79863548812524!3d37.47565379873231!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b62df3c146421%3A0x85ef3c709684ed59!2z7IaM7IKs64m07YOA7Jq0S0ND7Iqk7JyE7LK47JWE7YyM7Yq4!5e0!3m2!1sko!2skr!4v1469518242344" width="100%" height="375" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+						<iframe  title="구글지도" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d791.5918687547245!2d126.79863548812524!3d37.47565379873231!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b62df3c146421%3A0x85ef3c709684ed59!2z7IaM7IKs64m07YOA7Jq0S0ND7Iqk7JyE7LK47JWE7YyM7Yq4!5e0!3m2!1sko!2skr!4v1469518242344" width="100%" height="375" frameborder="0" style="border:0" allowfullscreen></iframe></div>
 					</div>
 					
 				<div class="shop_line10"></div>	
